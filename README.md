@@ -38,10 +38,4 @@ You can view the live version of the portfolio [here](#).
 - **Google Fonts** (for typography)
 - **Font Awesome** (for icons)
 
-## Installation
 
-To run the portfolio locally, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/portfolio.git
